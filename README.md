@@ -56,3 +56,21 @@ From that, we see
  👉Comparison of model performance: I learned how to compare the performance of different models using appropriate statistical tests or visualizations. This can help you choose the best model for the given problem.
 
 
+# Output Screenshots
+
+![image](https://user-images.githubusercontent.com/84863353/225497681-da9c463b-dd99-44ff-b383-fa11b8eaffdc.png)
+![image](https://user-images.githubusercontent.com/84863353/225497739-bfeaef89-f78d-4658-9bc0-c00aed20c04d.png)
+![image](https://user-images.githubusercontent.com/84863353/225497816-d4c5e2c7-2dcb-43ef-ac5e-6761538e8495.png)
+![image](https://user-images.githubusercontent.com/84863353/225497843-896d867f-902b-4418-a39d-99b599c861d9.png)
+![image](https://user-images.githubusercontent.com/84863353/225497881-9bb4912f-fa9f-422a-a382-4272037c32dd.png)
+![image](https://user-images.githubusercontent.com/84863353/225497903-dfed9b09-ccf0-46c6-9017-c99f1f9e0b3f.png)
+![image](https://user-images.githubusercontent.com/84863353/225497917-6af5914a-b6ea-4f6a-986c-086a41442132.png)
+![image](https://user-images.githubusercontent.com/84863353/225497924-d0031ec8-667e-48bf-a56a-bf8f0ac4a68e.png)
+![image](https://user-images.githubusercontent.com/84863353/225497933-173fe213-bada-4f3f-b4a8-571eea67a401.png)
+![image](https://user-images.githubusercontent.com/84863353/225497944-72a045f8-c5d2-4c4f-9e09-025acf717af3.png)
+![image](https://user-images.githubusercontent.com/84863353/225497960-5d4d78af-e7cd-43bd-80ca-ac2607306f47.png)
+![image](https://user-images.githubusercontent.com/84863353/225497978-48a9111d-0756-415c-b550-f941106290bd.png)
+
+
+
+
