@@ -39,11 +39,11 @@ From that, we see
 # Learning Output -> OneAPI
 ![image](https://user-images.githubusercontent.com/84863353/225495947-2beb9046-b97c-4c8d-9e29-b72939da658b.png)
 
-👉 Understood key features of oneDAL by Intel like: 
- .🎯Scalability and performance optimizations for big data analytics.
- .🎯Integration with popular programming languages such as C++, Python, and Java.
- .🎯Built-in support for common machine learning algorithms, including linear regression, decision trees, k-means clustering, and support vector machines.
- .🎯Interoperability with other Intel software tools and libraries for optimized performance, such as the Intel Math Kernel Library (MKL) and the Intel Distribution for Python.
+👉 Understood key features of oneDAL by Intel like: <br>
+ .🎯Scalability and performance optimizations for big data analytics.<br>
+ .🎯Integration with popular programming languages such as C++, Python, and Java.<br>
+ .🎯Built-in support for common machine learning algorithms, including linear regression, decision trees, k-means clustering, and support vector machines.<br>
+ .🎯Interoperability with other Intel software tools and libraries for optimized performance, such as the Intel Math Kernel Library (MKL) and the Intel Distribution for Python.<br>
  
  👉Understanding of the data: Learning how to preprocess and clean the data, as well as how to handle missing values and categorical variables.I conducted exploratory data analysis to gain insights into the relationships between the variables which helped me understand the domain region more based by statistical data and facts.
  
