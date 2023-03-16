@@ -1,5 +1,5 @@
 # Malnourishment-oneAPI
-### by Ashwin Satish, 2041014 3BCA A
+### by Ashwin Satish, 2041014 3BCA A, Central Campus
 
 ![image](https://user-images.githubusercontent.com/84863353/225493726-e54cbe62-5486-47c7-b370-1e18e41ccc46.png)
 
