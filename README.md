@@ -19,7 +19,7 @@ To understand further, I have chosen this domain/topic.
 
 ### ✅ Testing several models and find the best model from it
 
-![image](https://user-images.githubusercontent.com/84863353/225495439-45abf99e-cfcd-4185-98d2-b38e380fb0e8.png)
+![image](https://user-images.githubusercontent.com/84863353/225496989-4df977b6-66c1-4db8-8dc7-409b4adfb40f.png)
 
 ### ✅ Training the model using Intel oneDAL to get better results and faster computation (Intel oneAPI Data Analytics Library [oneDAL] )
 
